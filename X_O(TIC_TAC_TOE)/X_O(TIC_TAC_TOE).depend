@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680303566 source:c:\users\km-user\desktop\tp algo s2\x_o(tic_tac_toe)\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
